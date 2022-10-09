@@ -1,0 +1,4 @@
+- 👋 Hi there, I'm @cleitonmoya
+- ☀️ I live in Rio 
+- 📘 I'm currently studying Probabilistic Machine Learning models for time series
+- 💻 Most of time I use Python
