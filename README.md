@@ -1,3 +1,3 @@
 - 👋 Hi there, I'm @cleitonmoya
 - ☀️ I live in Rio
-- 📘 I'm studying Machine Learning, Anomaly and Change-Point detection methods im my M.Sc.
+- 📘 I'm studying Machine Learning, Change-Point and Anomaly Detection in my master's.
