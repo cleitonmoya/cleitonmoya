@@ -1,3 +1,3 @@
 - 👋 Hi there, I'm @cleitonmoya
-- ☀️ I live in Rio
-- 📘 I'm studying Machine Learning, Change-Point and Anomaly Detection in my master's.
+- ☀️ I'm from the state of [(Paraná)](https://en.wikipedia.org/wiki/Paran%C3%A1_(state), Brasil and I currently live in Rio
+- 📘 I'm studying Machine Learning, Change-Point and Anomaly Detection in my master's at [PESC/COPPE/UFRJ](https://www.cos.ufrj.br/)
