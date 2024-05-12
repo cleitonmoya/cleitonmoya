@@ -1,4 +1,4 @@
-- 👋 Hi there, I'm Cleiton Moya de Almeida
+- 👋 Hi there, I'm Cleiton (pronounced as 'Clayton' in English)
 - ☀️ I'm from the state of [Paraná](https://en.wikipedia.org/wiki/Paran%C3%A1_(state)), Brasil and I currently live in Rio
 - 💻 I'm studying Machine Learning, Change-Point and Anomaly Detection in my master's at [PESC/COPPE/UFRJ](https://www.cos.ufrj.br/)
 - 📚 I studied Automation and Control Engineering at [Federal University of Santa Catarina](https://www.ufsc.br)
