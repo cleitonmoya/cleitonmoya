@@ -1,5 +1,7 @@
 - 👋 Hi there, I'm Cleiton (pronounced as 'Clayton' in English)
-- ☀️ I'm from the state of [Paraná](https://en.wikipedia.org/wiki/Paran%C3%A1_(state)), Brasil and I currently live in Rio
-- 💻 I'm studying Machine Learning, Change-Point and Anomaly Detection in my master's at [PESC/COPPE/UFRJ](https://www.cos.ufrj.br/)
+- 📈 I'm PhD Student in the Interinstitutional Graduate Program in Statistics UFSCar-USP ([PIPGEs](https://www.pipges.ufscar.br/?set_language=en))
+- ☀️ I'm from the state of [Paraná](https://en.wikipedia.org/wiki/Paran%C3%A1_(state)) and now live in [São Carlos-SP](https://en.wikipedia.org/wiki/S%C3%A3o_Carlos)
+- 💻 I studied Machine Learning, Change-Point and Anomaly Detection in my master's at [PESC/COPPE/UFRJ](https://www.cos.ufrj.br/)
 - 📚 I studied Automation and Control Engineering at [Federal University of Santa Catarina](https://www.ufsc.br)
 - 👷 I worked in the industry (Pharma and Oil & Gas) for 10 years with Automation (including Industry 4.0) projects
+- I like to go biking 🚴 and to play acoustic 🎸
